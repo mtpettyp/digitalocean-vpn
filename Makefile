@@ -1,5 +1,5 @@
 
-INVENTORY=pettypiece.ca,
+INVENTORY=vpn1.pettypiece.ca,
 
 .PHONY: init deploy update update-vpn
 

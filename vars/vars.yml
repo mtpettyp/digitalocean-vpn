@@ -15,8 +15,8 @@ users:
     sudo: yes
 peers:
   - name: mbp-2013
-    public_key: 8JWUCu8QH8dkcRCzNWdtiOjRgQjUDaCwpTU1Jh8KyFU=
-    allowed_ips: 10.0.0.2/24
+    public_key: dU4r0AvuSUh7mKdYLO3TNh/0pEReWcPWTnAoXTvf7mc=
+    allowed_ips: 10.0.0.2/32
   - name: iPhone-11
     public_key: 6tC4dCqg9PS+xPRL5uyv6iXzUSSobU36uNQmhbmk9x0=
-    allowed_ips: 10.0.0.3/24
+    allowed_ips: 10.0.0.3/32
